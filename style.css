@@ -1,0 +1,50 @@
+body
+{
+  padding-top: 80px;
+}
+html
+{
+  scroll-behavior: smooth;
+  scroll-padding-top: 100px;
+}
+.nav_logo
+{
+	width: 280px;
+	height: 70px;
+}
+#navItem1 {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 18px;
+ }
+#navItem2 {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 18px;
+}
+#navItem3 {
+  color: #323f4b;
+  font-family: "Roboto";
+  font-size: 18px;
+}
+.prewedding-heading,.haldi-heading,.nikah-heading,.shukrana-heading,.valima-heading
+{
+	color: #183b56;
+  font-family: "Roboto";
+  font-size: 30px;
+   font-weight: 700;
+}
+.prewedding-description
+{
+	text-align: justify;
+	color: #5a7184;
+	font-family: "Roboto";
+  font-size: 18px;
+  height: 250px;
+  display: flex;
+  align-items: center;
+}
+.prewedding-video
+{
+	height: 250px;
+}
